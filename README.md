@@ -22,7 +22,6 @@ The project follows a systematic workflow, illustrated below:
 5. **Visualization**: Create a dashboard to analyze and display revenue data interactively using Power BI.  
 6. **Analysis & Reporting**: Generate a report summarizing insights and recommendations (`Revenue_Report.docx` and `Revenue_Slides.pptx`).  
 
----
 
 ## Dashboard Demo  
 Below is a demo of the **Revenue Analysis Dashboard**:
@@ -37,7 +36,6 @@ Below is a demo of the **Revenue Analysis Dashboard**:
 - **Insurance Coverage**: Displays contributions by major insurance providers.  
 - **Trend Analysis**: Visualizes revenue and treatment cost over time.
 
----
 
 ## Technology Involved  
 The project utilizes the following technologies and tools:
@@ -57,7 +55,6 @@ The project utilizes the following technologies and tools:
 - **Microsoft Word**: Insights and findings summarized in `Revenue_Report.docx`.  
 - **Microsoft PowerPoint**: Slides for presentation (`Revenue_Slides.pptx`).
 
----
 
 ## Results Summary  
 - **Treatment Cost** accounts for the largest proportion of revenue (78.38%), primarily driven by X-ray and CT-Scan procedures.  
@@ -66,7 +63,7 @@ The project utilizes the following technologies and tools:
 - **Insurance Providers** (Aviva, AXA, Allianz) contribute almost equally to coverage, ensuring risk diversification.  
 - Identified seasonal trends and anomalies in visit patterns to support resource planning.
 
----
+
 ## How to Run the Project  
 1. **Clone the repository**.  
 2. **Install required Python libraries** using the `requirements.txt` file in your notebook:  
@@ -80,4 +77,8 @@ The project utilizes the following technologies and tools:
 5.	Refer to Reports:
 - Review Revenue_Report.docx for insights and findings.
 - Use Revenue_Slides.pptx for presentation.
+
+
+## Thank you for exploring the project!
+If you have any feedback or questions, feel free to reach out.
 
