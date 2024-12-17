@@ -1,20 +1,13 @@
 # Hospital Revenue Analysis System
 
----
-
 ## Project Aim  
 The aim of this project is to analyze and derive meaningful insights into the hospital's revenue performance, identify key revenue sources, and uncover factors contributing to financial differences across departments, procedures, and cost structures. By utilizing interactive dashboards, the project supports decision-makers in improving revenue efficiency and operational strategy.
-
----
-
 
 ## Author  
 **Anh Vi Pham (Henry)**  
 Email: anhvi09042002@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anh-vi-pham/  
 I highly value all contributions and feedback, and will endeavor to respond at the earliest opportunity. Thank you once again, and I look forward to hearing from you!  
-
----
 
 ## Workflow  
 The project follows a systematic workflow, illustrated below:
