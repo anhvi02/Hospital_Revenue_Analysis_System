@@ -15,7 +15,7 @@ The aim of this project is to analyze and derive meaningful insights into the ho
 ## Workflow  
 The project follows a systematic workflow, illustrated below:
 
-![Workflow Diagram](image.png)
+![Workflow Diagram]([image.png](https://github.com/anhvi02/Hospital-Revenue-Analytics-Engineering/blob/master/workflow.png))
 
 1. **Data Extraction**: Extract raw data from the source file (CSV format).  
 2. **Data Loading**: Load the data into the SQL database named `HospitalOperation` using Python (`load_data.ipynb`).  
@@ -29,7 +29,7 @@ The project follows a systematic workflow, illustrated below:
 ## Dashboard Demo  
 Below is a demo of the **Revenue Analysis Dashboard**:
 
-![Dashboard Demo](image.png)
+![Dashboard Demo](https://github.com/anhvi02/Hospital-Revenue-Analytics-Engineering/blob/master/dashboard_demo.png)
 
 ### Key Features:  
 - **Revenue Overview**: Provides key metrics, including total revenue, total visits, and revenue per visit.  
