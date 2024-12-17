@@ -15,7 +15,7 @@ The aim of this project is to analyze and derive meaningful insights into the ho
 ## Workflow  
 The project follows a systematic workflow, illustrated below:
 
-![Workflow Diagram]([image.png](https://github.com/anhvi02/Hospital-Revenue-Analytics-Engineering/blob/master/workflow.png))
+![Workflow Diagram](https://github.com/anhvi02/Hospital-Revenue-Analytics-Engineering/blob/master/workflow.png)
 
 1. **Data Extraction**: Extract raw data from the source file (CSV format).  
 2. **Data Loading**: Load the data into the SQL database named `HospitalOperation` using Python (`load_data.ipynb`).  
