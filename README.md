@@ -7,7 +7,8 @@ The aim of this project is to analyze and derive meaningful insights into the ho
 **Anh Vi Pham (Henry)**  
 
 Email: anhvi09042002@gmail.com  
-LinkedIn: https://www.linkedin.com/in/anh-vi-pham/  
+LinkedIn: https://www.linkedin.com/in/anh-vi-pham/   
+
 I highly value all contributions and feedback, and will endeavor to respond at the earliest opportunity. Thank you once again, and I look forward to hearing from you!  
 
 ## Workflow  
@@ -68,13 +69,13 @@ The project utilizes the following technologies and tools:
 1. **Clone the repository**.  
 2. **Install required Python libraries** using the `requirements.txt` file in your notebook:  
    !pip install -r requirements.txt
-3.	Run the ETL Process:
+3.	**Run the ETL Process**
 - Execute load_data.ipynb to load the data into the database.
 - Execute transform_data.ipynb to clean and preprocess the data.
-4.	Visualize the Results:
+4.	**Visualize the Results**
 - Open the Revenue_Dashboard.pbix file in Power BI to explore the interactive dashboard.
 - Note that this report with use the semantic model embedded when I created it.
-5.	Refer to Reports:
+5.	**Refer to Reports**
 - Review Revenue_Report.docx for insights and findings.
 - Use Revenue_Slides.pptx for presentation.
 
