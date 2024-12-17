@@ -1,7 +1,4 @@
-# Revenue Analysis for Hospital Operations
-
-## Project Title  
-**Hospital Revenue Analysis: Insights into Key Performance Metrics and Revenue Sources**
+# Hospital Revenue Analysis System
 
 ## Project Aim  
 The aim of this project is to analyze and derive meaningful insights into the hospital's revenue performance, identify key revenue sources, and uncover factors contributing to financial differences across departments, procedures, and cost structures. By utilizing interactive dashboards, the project supports decision-makers in improving revenue efficiency and operational strategy.
@@ -9,13 +6,7 @@ The aim of this project is to analyze and derive meaningful insights into the ho
 ## Author  
 **Anh Vi Pham (Henry)**  
 Email: anhvi09042002@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/anh-vi-pham/
-
-Github: https://github.com/anhvi02
-
-Kaggle: https://www.kaggle.com/nobit02
-
 I highly value all contributions and feedback, and will endeavor to respond at the earliest opportunity. Thank you once again, and I look forward to hearing from you!
 
 ---
@@ -77,4 +68,17 @@ The project utilizes the following technologies and tools:
 - Identified seasonal trends and anomalies in visit patterns to support resource planning.
 
 ---
+## How to Run the Project  
+1. **Clone the repository**.  
+2. **Install required Python libraries** using the `requirements.txt` file in your notebook:  
+   !pip install -r requirements.txt
+3.	Run the ETL Process:
+- Execute load_data.ipynb to load the data into the database.
+- Execute transform_data.ipynb to clean and preprocess the data.
+4.	Visualize the Results:
+- Open the Revenue_Dashboard.pbix file in Power BI to explore the interactive dashboard.
+- Note that this report with use the semantic model embedded when I created it.
+5.	Refer to Reports:
+- Review Revenue_Report.docx for insights and findings.
+- Use Revenue_Slides.pptx for presentation.
 
