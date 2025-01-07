@@ -30,7 +30,7 @@ Below is a demo of the **Revenue Analysis Dashboard**:
 ![Dashboard Demo](https://github.com/anhvi02/Hospital-Revenue-Analytics-Engineering/blob/master/dashboard_demo.png)
 
 ### Notes:   
-**Total Revenue** = Treatment Cost + Medication Cost + Room Cost
+**Total Revenue** = Treatment Cost + Medication Cost + Room Cost  
 **Total Revenue** = Insurance Coverage + Patient Treatment
 
 ### Key Features:  
